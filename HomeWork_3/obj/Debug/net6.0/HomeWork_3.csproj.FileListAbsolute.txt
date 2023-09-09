@@ -1,0 +1,15 @@
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\bin\Debug\net6.0\HomeWork_3.exe
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\bin\Debug\net6.0\HomeWork_3.deps.json
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\bin\Debug\net6.0\HomeWork_3.runtimeconfig.json
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\bin\Debug\net6.0\HomeWork_3.dll
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\bin\Debug\net6.0\HomeWork_3.pdb
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.csproj.AssemblyReference.cache
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.AssemblyInfoInputs.cache
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.AssemblyInfo.cs
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.csproj.CoreCompileInputs.cache
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.dll
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\refint\HomeWork_3.dll
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.pdb
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\HomeWork_3.genruntimeconfig.cache
+D:\Аналитика\21. Семинар 3. Базовые алгоритмы. Продолжение\CSharp_HW\HomeWork_3\obj\Debug\net6.0\ref\HomeWork_3.dll
